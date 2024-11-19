@@ -1,0 +1,5 @@
+{
+    "name": "template-bun-basic",
+    "module": "index.js",
+    "type": "module"
+}
